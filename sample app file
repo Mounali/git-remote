@@ -1,0 +1,8 @@
+git clone https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart
+in local directory/in CMD:
+
+cd msdocs-python-flask-webapp-quickstart
+
+py -m venv .venv.venv\scripts\activate
+pip install -r requirements.txt
+flask run
